@@ -1,0 +1,37 @@
+style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: aqua;
+}
+.container {
+    max-width: 500px;
+    margin: auto;
+}
+label {
+    display: block;
+    margin: 10px 0 5px;
+}
+input {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+button {
+    padding: 10px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #45a049;
+}
+.student-info {
+    margin-top: 20px;
+    border-top: 2px solid #ccc;
+    padding-top: 10px;
+}
